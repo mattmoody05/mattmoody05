@@ -6,13 +6,13 @@
 <h2>Languages and tools</h2>
 <p>    
     After learning the basic programming skills in VB.NET, I moved to Python to complete small projects such as discord bots. I am currently using HTML, CSS3, JS, Svelte and Python to create full stack web applications. Languages and other applications I use are listed below. <br> <br>
-    <img align="left" src="https://img.icons8.com/dusk/24/000000/github.png"/>Github <br>
-    <img align="left" src="https://img.icons8.com/dusk/24/000000/visual-studio-code-2019.png"/>Visual Studio Code <br>
-    <img align="left" src="https://img.icons8.com/dusk/24/000000/python.png"/>Python 3 <br>
-    <img align="left" src="https://img.icons8.com/dusk/24/000000/html-5.png"/>HTML5 <br>
-    <img align="left" src="https://img.icons8.com/dusk/24/000000/css3.png"/>CSS3 <br>
-    <img align="left" src="https://img.icons8.com/dusk/24/000000/javascript.png"/>Javascript <br>
-    <img align="left" src="https://img.icons8.com/dusk/24/000000/svetle.png"/>Svelte <br>
+    <img align="left" src="https://img.icons8.com/dusk/20/000000/github.png"/>Github <br>
+    <img align="left" src="https://img.icons8.com/dusk/20/000000/visual-studio-code-2019.png"/>Visual Studio Code <br>
+    <img align="left" src="https://img.icons8.com/dusk/20/000000/python.png"/>Python 3 <br>
+    <img align="left" src="https://img.icons8.com/dusk/20/000000/html-5.png"/>HTML5 <br>
+    <img align="left" src="https://img.icons8.com/dusk/20/000000/css3.png"/>CSS3 <br>
+    <img align="left" src="https://img.icons8.com/dusk/20/000000/javascript.png"/>Javascript <br>
+    <img align="left" src="https://img.icons8.com/dusk/20/000000/svetle.png"/>Svelte <br>
 </p>
 
 <h2>Contact</h2>
